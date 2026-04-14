@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BookingManager
+comment1.params=booking
+comment1.target=void\ addBooking(Booking)
+comment2.params=
+comment2.target=void\ saveObject()
+comment3.params=
+comment3.target=void\ loadObject()
+comment4.params=bookingID
+comment4.target=void\ cancelBooking(java.lang.String)
+comment5.params=id
+comment5.target=Booking\ searchBooking(java.lang.String)
+comment6.params=
+comment6.target=void\ displayBookings()
+comment7.params=
+comment7.target=void\ displayDetailedBookings()
+comment8.params=
+comment8.target=void\ saveToFile()
+comment9.params=
+comment9.target=void\ loadFromFile()
+numComments=10

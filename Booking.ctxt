@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Booking
+comment1.params=customerName\ roomNumber\ date
+comment1.target=Booking(java.lang.String,\ int,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ toFileString()
+comment2.params=
+comment2.target=java.lang.String\ generateBookingID()
+comment3.params=
+comment3.target=java.lang.String\ getBookingID()
+comment4.params=
+comment4.target=java.lang.String\ getCustomerName()
+comment5.params=
+comment5.target=int\ getRoomNumber()
+comment6.params=
+comment6.target=java.lang.String\ getDate()
+comment7.params=name
+comment7.target=void\ setCustomerName(java.lang.String)
+comment8.params=date
+comment8.target=void\ setDate(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ display()
+numComments=11

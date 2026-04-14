@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Bookable
+comment1.params=booking
+comment1.target=void\ addBooking(Booking)
+comment2.params=bookingID
+comment2.target=void\ cancelBooking(java.lang.String)
+numComments=3
